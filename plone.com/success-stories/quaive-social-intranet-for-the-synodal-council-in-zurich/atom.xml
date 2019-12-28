@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich" xml:lang="en">
+  <link rel="self" href="https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich/atom.xml" type="application/atom+xml"/>
+  <title type="html">Quaive Social Intranet for the Synodal Council in Zurich</title>
+  <subtitle>Quaive, a Plone-powered intranet platform, is pivotal in supporting the digital transition for the Catholic church in Zürich.</subtitle>
+  <updated>2017-12-23T01:56:22+00:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich/"/>
+  <id>urn:syndication:1bff98824cad4a0a8afb5282a8c80f5f</id>
+  <logo>https://plone.com/logo.png</logo>
+  <icon>https://plone.com/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  <author>
+    <name>Chrissy Wainwright</name>
+    <email>chrissy@sixfeetup.com</email>
+  </author>
+
+  
+    <entry>
+      <title>quaive-home-1.png</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich/quaive-home-1.png/view"/>
+      
+      <id>urn:syndication:4f6115766ad545beb599087081a5347f</id>
+      
+      
+
+      <author>
+        
+        <name>chrissy</name>
+        
+      </author>
+
+      <published>2017-12-13T04:38:13+00:00</published>
+
+      <updated>2017-12-13T04:38:13+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>quaive-cases.png</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich/quaive-cases.png/view"/>
+      
+      <id>urn:syndication:5b2d097d44de4ac8ba6cae0bbd6435b5</id>
+      
+      
+
+      <author>
+        
+        <name>chrissy</name>
+        
+      </author>
+
+      <published>2017-12-13T04:38:27+00:00</published>
+
+      <updated>2017-12-13T04:38:27+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>quaive-library.png</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich/quaive-library.png/view"/>
+      
+      <id>urn:syndication:e9bebb55e1794d45a6da1f5f94426469</id>
+      
+      
+
+      <author>
+        
+        <name>chrissy</name>
+        
+      </author>
+
+      <published>2017-12-13T04:38:39+00:00</published>
+
+      <updated>2017-12-13T04:38:39+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>quaive-workspaces.png</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich/quaive-workspaces.png/view"/>
+      
+      <id>urn:syndication:904885418f4f404fb2303304ca6e7f2d</id>
+      
+      
+
+      <author>
+        
+        <name>chrissy</name>
+        
+      </author>
+
+      <published>2017-12-13T04:39:01+00:00</published>
+
+      <updated>2017-12-13T04:39:01+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>quaive-person.png</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich/quaive-person.png/view"/>
+      
+      <id>urn:syndication:6dc139b93e6a4edcb4149cfec7c5a271</id>
+      
+      
+
+      <author>
+        
+        <name>chrissy</name>
+        
+      </author>
+
+      <published>2017-12-13T04:38:50+00:00</published>
+
+      <updated>2017-12-13T04:38:50+00:00</updated>
+
+
+    </entry>
+
+  
+
+</feed>

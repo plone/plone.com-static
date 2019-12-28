@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/success-stories/onkopedia/rss.xml"/>
+    <title>Onkopedia</title>
+    <link>https://plone.com/success-stories/onkopedia</link>
+    <description>Automating workflow—without changing how people work.</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title></title>
+      <description>How it works: the conversion process</description>
+      
+      <pubDate>Fri, 17 Jul 2015 15:37:58 +0000</pubDate>
+      <guid>https://plone.com/success-stories/onkopedia/Onkopedia.png/view</guid>
+    </item>
+    <item>
+      <title></title>
+      <description>Publication workflow</description>
+      
+      <pubDate>Fri, 17 Jul 2015 15:40:57 +0000</pubDate>
+      <guid>https://plone.com/success-stories/onkopedia/Onkopediaflow.png/view</guid>
+    </item>
+    <item>
+      <title>Onkopedia Guidelines</title>
+      <description></description>
+      
+      <pubDate>Mon, 27 Apr 2015 16:26:39 +0000</pubDate>
+      <guid>https://plone.com/success-stories/onkopedia/onkopedia-guidelines/view</guid>
+    </item>
+    <item>
+      <title>Onkopedia Homepage</title>
+      <description></description>
+      
+      <pubDate>Mon, 27 Apr 2015 16:28:06 +0000</pubDate>
+      <guid>https://plone.com/success-stories/onkopedia/onkopedia-homepage/view</guid>
+    </item>
+    <item>
+      <title>Guidelines Expanded View</title>
+      <description></description>
+      
+      <pubDate>Mon, 27 Apr 2015 16:28:53 +0000</pubDate>
+      <guid>https://plone.com/success-stories/onkopedia/guidelines-expanded-view/view</guid>
+    </item>
+    <item>
+      <title>Example: document conversion to HTML</title>
+      <description>Example: document conversion to HTML</description>
+      
+      <pubDate>Fri, 17 Jul 2015 15:43:12 +0000</pubDate>
+      <guid>https://plone.com/success-stories/onkopedia/example-cocument-conversion-to-html/view</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/providers/sponsors/rss.xml"/>
+    <title>Sponsors</title>
+    <link>https://plone.com/providers/sponsors</link>
+    <description></description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Interaktiv GmbH</title>
+      <description>We are specialized in sophisticated content management based on Plone</description>
+      
+      <pubDate>Mon, 20 Apr 2015 13:25:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/interaktiv</guid>
+    </item>
+    <item>
+      <title>kitconcept</title>
+      <description>one of the most experienced European Plone companies</description>
+      
+      <pubDate>Fri, 10 Feb 2017 22:45:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/kitconcept</guid>
+    </item>
+    <item>
+      <title>PretaGov</title>
+      <description>Helping Government deliver great digital services
+</description>
+      
+      <pubDate>Fri, 13 Mar 2015 14:50:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/pretagov</guid>
+    </item>
+    <item>
+      <title>cloud19 web solutions &amp; services</title>
+      <description>a full-service web agency</description>
+      
+      <pubDate>Fri, 13 Mar 2015 15:45:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/cloud19</guid>
+    </item>
+    <item>
+      <title>Affinitic</title>
+      <description>Affinitic is a Belgian company involved in the Plone and Python community, participating in the national Plone meetings, Plone conferences, Plone sprints and Afpy meetings.</description>
+      
+      <pubDate>Wed, 04 Nov 2015 22:45:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/affinitic</guid>
+    </item>
+    <item>
+      <title>Kombinat Media Gestalter GmbH</title>
+      <description>KOMBINAT GmbH is a team of media designers whose expertise lies in classical and new media.</description>
+      
+      <pubDate>Fri, 13 Mar 2015 15:45:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/kombinat</guid>
+    </item>
+    <item>
+      <title>Webmeisterei GmbH - Büro für Netzfragen</title>
+      <description>Specialized in planning, implementing and hosting high-end web-projects using open source software. Member of the Quaive consortium and working with Plone since 2005.</description>
+      
+      <pubDate>Fri, 13 Mar 2015 15:45:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/webmeisterei</guid>
+    </item>
+    <item>
+      <title>programmatic web development (BlueDynamics Alliance)</title>
+      <description>Delivering tailored web solutions around a Python and JavaScript technology stack</description>
+      
+      <pubDate>Fri, 08 Apr 2016 23:55:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/programmatic</guid>
+    </item>
+    <item>
+      <title>ZOPYX</title>
+      <description>Specialists for large-scale Plone solutions, electronic publishing applications and individual Python software development since 2004</description>
+      
+      <pubDate>Fri, 16 Feb 2018 21:43:37 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/zopyx</guid>
+    </item>
+    <item>
+      <title>XHOSTPLUS</title>
+      <description>using Plone for web projects since 2004</description>
+      
+      <pubDate>Thu, 07 Apr 2016 16:45:59 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/xhostplus</guid>
+    </item>
+    <item>
+      <title>4teamwork AG</title>
+      <description>State-of-the-art web applications for enterprise content management (ECM, CMS), intranet, records management (GEVER), and collaboration.</description>
+      
+      <pubDate>Mon, 15 Jan 2018 06:54:48 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/4teamwork</guid>
+    </item>
+    <item>
+      <title>operun webagentur</title>
+      <description>operun provides consulting, design and development for websites and applications based on Plone and Python. </description>
+      
+      <pubDate>Thu, 04 May 2017 16:25:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/operun</guid>
+    </item>
+    <item>
+      <title>derico - Softwareentwicklung &amp; Consulting</title>
+      <description>Python - Plone - Zope - Pyramid - Django web development &amp; consulting</description>
+      
+      <pubDate>Fri, 22 Jan 2016 11:05:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/derico</guid>
+    </item>
+  </channel>
+</rss>

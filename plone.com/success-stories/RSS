@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://plone.com/success-stories/RSS">
+  <title>Success Stories</title>
+  <link>https://plone.com/success-stories</link>
+  <description></description>
+  <image rdf:resource="https://plone.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/humanitas"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/chicago-medical-society"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/federal-bureau-of-investigation"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/each-one-teach-one"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/yesterday-bar"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/success-stories"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/albuquerque-public-schools"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/washington-nonprofits"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/college-of-the-liberal-arts-at-penn-state"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/denso-auto-parts"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/university-of-jyvaskyla-finland"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/university-of-leuven-belgium"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/the-mountaineers"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/victoria-state-emergency-service"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/regional-computer-forensics-laboratory"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://plone.com/success-stories/humanitas">
+    <title>Humanitas Volunteer Management Software</title>
+    <link>https://plone.com/success-stories/humanitas</link>
+    <description>One of the main social services and community building organizations of the Netherlands uses Plone to securely coordinate volunteers with their projects without exposing private client information to volunteers outside the project.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-05-29T16:49:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/chicago-medical-society">
+    <title>Chicago Medical Society</title>
+    <link>https://plone.com/success-stories/chicago-medical-society</link>
+    <description>Ditching disparate, independent services for a seamless solution.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-02-25T16:03:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/federal-bureau-of-investigation">
+    <title>Federal Bureau of Investigation</title>
+    <link>https://plone.com/success-stories/federal-bureau-of-investigation</link>
+    <description>Needed: a large-scale, sophisticated communication tool</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Government</dc:subject>
+    
+    <dc:date>2015-09-02T14:54:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/each-one-teach-one">
+    <title>Each One Teach One</title>
+    <link>https://plone.com/success-stories/each-one-teach-one</link>
+    <description>Each One Teach One, also known as EOTO, is a program for those who want to get to know students from different countries and learn different languages. Students teach each other their mother tongues and learn the language of their partner.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2018-01-11T04:42:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/yesterday-bar">
+    <title>Yesterday Bar</title>
+    <link>https://plone.com/success-stories/yesterday-bar</link>
+    <description>The site for Yesterday - Die Bar provides a full experience for users to explore images and details of the drinks available at the bar.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2018-03-24T19:59:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/success-stories">
+    <title>Success Stories</title>
+    <link>https://plone.com/success-stories/success-stories</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-03-06T20:15:00Z</dc:date>
+    <dc:type>Collection</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/albuquerque-public-schools">
+    <title>Albuquerque Public Schools</title>
+    <link>https://plone.com/success-stories/albuquerque-public-schools</link>
+    <description>Overcoming outdated technology, a lack of meaningful content, and noncompliance with a State Act.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2014-06-21T20:34:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/washington-nonprofits">
+    <title>Washington Nonprofits</title>
+    <link>https://plone.com/success-stories/washington-nonprofits</link>
+    <description>Plone theming, there's more than what meets the eyes. A lot more.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2014-06-21T20:27:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/college-of-the-liberal-arts-at-penn-state">
+    <title>College of the Liberal Arts at Penn State</title>
+    <link>https://plone.com/success-stories/college-of-the-liberal-arts-at-penn-state</link>
+    <description>The redesign of an unwieldy and under performing Course Management System.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2014-06-21T20:37:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/denso-auto-parts">
+    <title>Denso Auto</title>
+    <link>https://plone.com/success-stories/denso-auto-parts</link>
+    <description>A global solution for parts management.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-03-13T16:16:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/university-of-jyvaskyla-finland">
+    <title>University of Jyväskylä, Finland</title>
+    <link>https://plone.com/success-stories/university-of-jyvaskyla-finland</link>
+    <description>10 years and counting!</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-03-16T17:29:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/university-of-leuven-belgium">
+    <title>University of Leuven, Belgium</title>
+    <link>https://plone.com/success-stories/university-of-leuven-belgium</link>
+    <description>Implementing a University theme and central support.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-03-16T17:52:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/the-mountaineers">
+    <title>The Mountaineers</title>
+    <link>https://plone.com/success-stories/the-mountaineers</link>
+    <description>A complex, member­-driven website with e-commerce and Salesforce.com integration</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-24T09:00:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/victoria-state-emergency-service">
+    <title>Victoria State Emergency Service</title>
+    <link>https://plone.com/success-stories/victoria-state-emergency-service</link>
+    <description>Sidestepping the Worst Case Scenario.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-03-06T16:04:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/regional-computer-forensics-laboratory">
+    <title>Regional Computer Forensics Laboratory</title>
+    <link>https://plone.com/success-stories/regional-computer-forensics-laboratory</link>
+    <description>Where information security is the top priority.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-03-23T17:24:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

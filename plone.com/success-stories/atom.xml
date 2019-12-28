@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://plone.com/success-stories" xml:lang="en">
+  <link rel="self" href="https://plone.com/success-stories/atom.xml" type="application/atom+xml"/>
+  <title type="html">Success Stories</title>
+  
+  <updated>2015-05-08T17:14:20+00:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://plone.com/success-stories/"/>
+  <id>urn:syndication:c38cfb15388b47d581145194631c25ee</id>
+  <logo>https://plone.com/logo.png</logo>
+  <icon>https://plone.com/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Humanitas Volunteer Management Software</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/humanitas"/>
+      
+      <id>urn:syndication:73da5d3f5f4841eda12876697b98a0ea</id>
+      <summary>One of the main social services and community building organizations of the Netherlands uses Plone to securely coordinate volunteers with their projects without exposing private client information to volunteers outside the project.</summary>
+      
+
+      <author>
+        
+        <name>chrissy</name>
+        
+      </author>
+
+      <published>2017-05-29T16:49:00+00:00</published>
+
+      <updated>2017-06-06T13:25:51+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Chicago Medical Society</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/chicago-medical-society"/>
+      
+      <id>urn:syndication:d64b603127e043d7b29a1fbd1cee91ab</id>
+      <summary>Ditching disparate, independent services for a seamless solution.</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-02-25T16:03:00+00:00</published>
+
+      <updated>2017-12-15T03:52:26+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Federal Bureau of Investigation</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/federal-bureau-of-investigation"/>
+      
+      <id>urn:syndication:3f809961d00b449787983982dcf079ae</id>
+      <summary>Needed: a large-scale, sophisticated communication tool</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-09-02T14:54:00+00:00</published>
+
+      <updated>2017-12-15T03:49:42+00:00</updated>
+
+      
+        <category term="Government"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Each One Teach One</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/each-one-teach-one"/>
+      
+      <id>urn:syndication:c664efb1995b49a787233fa03e177df6</id>
+      <summary>Each One Teach One, also known as EOTO, is a program for those who want to get to know students from different countries and learn different languages. Students teach each other their mother tongues and learn the language of their partner.</summary>
+      
+
+      <author>
+        
+        <name>chrissy</name>
+        
+      </author>
+
+      <published>2018-01-11T04:42:00+00:00</published>
+
+      <updated>2018-01-12T02:49:58+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Yesterday Bar</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/yesterday-bar"/>
+      
+      <id>urn:syndication:3ffb365ee48b45918bdc8cedd616f29e</id>
+      <summary>The site for Yesterday - Die Bar provides a full experience for users to explore images and details of the drinks available at the bar.</summary>
+      
+
+      <author>
+        
+        <name>chrissy</name>
+        
+      </author>
+
+      <published>2018-03-24T19:59:00+00:00</published>
+
+      <updated>2018-03-24T20:18:07+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Success Stories</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/success-stories"/>
+      
+      <id>urn:syndication:e2026ab9c8794867b40f352d4fcb9875</id>
+      
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-03-06T20:15:00+00:00</published>
+
+      <updated>2015-04-24T16:33:07+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Albuquerque Public Schools</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/albuquerque-public-schools"/>
+      
+      <id>urn:syndication:82382b8044514eb3a7969bf67097d4b5</id>
+      <summary>Overcoming outdated technology, a lack of meaningful content, and noncompliance with a State Act.</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2014-06-21T20:34:00+00:00</published>
+
+      <updated>2017-12-15T03:55:01+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Washington Nonprofits</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/washington-nonprofits"/>
+      
+      <id>urn:syndication:aa6466f4d99747e5af43d7a67fafa276</id>
+      <summary>Plone theming, there's more than what meets the eyes. A lot more.</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2014-06-21T20:27:00+00:00</published>
+
+      <updated>2017-04-03T20:53:22+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>College of the Liberal Arts at Penn State</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/college-of-the-liberal-arts-at-penn-state"/>
+      
+      <id>urn:syndication:c67cfb39aaef422c9b5b3cacd37257c6</id>
+      <summary>The redesign of an unwieldy and under performing Course Management System.</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2014-06-21T20:37:00+00:00</published>
+
+      <updated>2017-12-15T03:54:11+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Denso Auto</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/denso-auto-parts"/>
+      
+      <id>urn:syndication:db87d5a5da884a7fa6bde14dcb670cf0</id>
+      <summary>A global solution for parts management.</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-03-13T16:16:00+00:00</published>
+
+      <updated>2017-12-15T03:53:41+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>University of Jyväskylä, Finland</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/university-of-jyvaskyla-finland"/>
+      
+      <id>urn:syndication:b3183f6e84304f2c8bf5e48840bc952f</id>
+      <summary>10 years and counting!</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-03-16T17:29:00+00:00</published>
+
+      <updated>2017-12-15T03:53:19+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>University of Leuven, Belgium</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/university-of-leuven-belgium"/>
+      
+      <id>urn:syndication:bb1d68f6c9684b5c9ef2631995e0dcff</id>
+      <summary>Implementing a University theme and central support.</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-03-16T17:52:00+00:00</published>
+
+      <updated>2017-12-15T03:52:53+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>The Mountaineers</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/the-mountaineers"/>
+      
+      <id>urn:syndication:2f91d0bbf0f742ab92b2542e6dd6a33d</id>
+      <summary>A complex, member­-driven website with e-commerce and Salesforce.com integration</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-09-24T09:00:00+00:00</published>
+
+      <updated>2017-12-15T03:50:38+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Victoria State Emergency Service</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/victoria-state-emergency-service"/>
+      
+      <id>urn:syndication:bb834f7c363f496bb2451db1fd6fd452</id>
+      <summary>Sidestepping the Worst Case Scenario.</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-03-06T16:04:00+00:00</published>
+
+      <updated>2017-12-15T03:45:01+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Regional Computer Forensics Laboratory</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/regional-computer-forensics-laboratory"/>
+      
+      <id>urn:syndication:4152ae6a9f9a450eb74cdf8e71a5448c</id>
+      <summary>Where information security is the top priority.</summary>
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-03-23T17:24:00+00:00</published>
+
+      <updated>2017-12-15T03:51:49+00:00</updated>
+
+
+    </entry>
+
+  
+
+</feed>

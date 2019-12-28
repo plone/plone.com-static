@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/providers/rss.xml"/>
+    <title>Providers</title>
+    <link>https://plone.com/providers</link>
+    <description>Individuals and organizations who provide Plone and related services</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Premium Sponsors</title>
+      <description></description>
+      
+      <pubDate>Fri, 13 Mar 2015 14:55:00 +0000</pubDate>
+      <guid>https://plone.com/providers/premium</guid>
+    </item>
+    <item>
+      <title>Sponsors</title>
+      <description></description>
+      
+      <pubDate>Fri, 13 Mar 2015 15:40:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors</guid>
+    </item>
+    <item>
+      <title>Providers</title>
+      <description></description>
+      
+      <pubDate>Tue, 24 Mar 2015 21:45:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic</guid>
+    </item>
+    <item>
+      <title>Other Sponsors</title>
+      <description></description>
+      
+      <pubDate>Sat, 09 May 2015 17:40:31 +0000</pubDate>
+      <guid>https://plone.com/providers/other-sponsors</guid>
+    </item>
+    <item>
+      <title>Providers in create order</title>
+      <description></description>
+      
+      <pubDate>Thu, 07 Apr 2016 16:16:59 +0000</pubDate>
+      <guid>https://plone.com/providers/providers-in-create-order</guid>
+    </item>
+  </channel>
+</rss>

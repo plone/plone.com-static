@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="http://plone.com/providers/premium/rss.xml"/>
+    <title>Premium Sponsors</title>
+    <link>http://plone.com/providers/premium</link>
+    <description></description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Starzel</title>
+      <description>creating websites and web applications since 1998</description>
+      
+      <pubDate>Mon, 20 Apr 2015 13:25:00 +0000</pubDate>
+      <guid>http://plone.com/providers/premium/starzel</guid>
+    </item>
+    <item>
+      <title>Soliton Consulting</title>
+      <description>Based in Seattle, WA (USA), Soliton Consulting specializes in Plone to deliver web development, support, hosting and training services to local, national and international clients. Our solutions are highly performant, scalable, and secure.</description>
+      
+      <pubDate>Mon, 20 Apr 2015 13:25:00 +0000</pubDate>
+      <guid>http://plone.com/providers/premium/soliton-consulting</guid>
+    </item>
+    <item>
+      <title>Enfold Systems</title>
+      <description>Founded by Alan Runyan, co-founder of Plone, Enfold Systems is one of the most experienced providers of solutions based on Plone</description>
+      
+      <pubDate>Fri, 13 Mar 2015 14:35:00 +0000</pubDate>
+      <guid>http://plone.com/providers/premium/enfold-systems</guid>
+    </item>
+    <item>
+      <title>PSW GROUP GmbH &amp; Co. KG</title>
+      <description>PSW GROUP is a full service provider for Internet solutions with a focus on Internet security in Germany</description>
+      
+      <pubDate>Fri, 13 Mar 2015 15:30:00 +0000</pubDate>
+      <guid>http://plone.com/providers/premium/psw-group-gmbh-co-kg</guid>
+    </item>
+    <item>
+      <title>Six Feet Up, Inc.</title>
+      <description>Six Feet Up is a WBE software company that helps IT teams grow enterprise-grade web projects.</description>
+      
+      <pubDate>Fri, 13 Mar 2015 14:30:00 +0000</pubDate>
+      <guid>http://plone.com/providers/premium/six-feet-up-inc</guid>
+    </item>
+    <item>
+      <title>Syslab.com</title>
+      <description>Quaive Social Intranet, risk assessment tools and powerful web solutions based on Plone created by passionate teams.</description>
+      
+      <pubDate>Fri, 13 Mar 2015 14:50:00 +0000</pubDate>
+      <guid>http://plone.com/providers/premium/syslab.com</guid>
+    </item>
+    <item>
+      <title>Jazkarta</title>
+      <description>Jazkarta creates websites and web applications with open source software</description>
+      
+      <pubDate>Fri, 13 Mar 2015 14:50:00 +0000</pubDate>
+      <guid>http://plone.com/providers/premium/jazkarta</guid>
+    </item>
+    <item>
+      <title>TheVirtual Limited</title>
+      <description>TheVirtual specialise in building feature rich websites, intranets and web applications. We are a
+small agile team who go out of our way to see that our clients projects are successful.</description>
+      
+      <pubDate>Fri, 13 Mar 2015 14:50:00 +0000</pubDate>
+      <guid>http://plone.com/providers/premium/thevirtual</guid>
+    </item>
+  </channel>
+</rss>

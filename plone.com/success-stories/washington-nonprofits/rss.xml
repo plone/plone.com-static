@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/success-stories/washington-nonprofits/rss.xml"/>
+    <title>Washington Nonprofits</title>
+    <link>https://plone.com/success-stories/washington-nonprofits</link>
+    <description>Plone theming, there's more than what meets the eyes. A lot more.</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>501 Commons Directory</title>
+      <description>The originating directory with content from SalesForce.</description>
+      
+      <pubDate>Wed, 25 Feb 2015 20:47:56 +0000</pubDate>
+      <guid>https://plone.com/success-stories/washington-nonprofits/501-directory/view</guid>
+    </item>
+    <item>
+      <title>Washington Nonprofits Directory</title>
+      <description>Directory mapped to 501 Commons</description>
+      
+      <pubDate>Wed, 25 Feb 2015 20:48:18 +0000</pubDate>
+      <guid>https://plone.com/success-stories/washington-nonprofits/wnp-directory/view</guid>
+    </item>
+  </channel>
+</rss>

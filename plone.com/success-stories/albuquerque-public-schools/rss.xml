@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/success-stories/albuquerque-public-schools/rss.xml"/>
+    <title>Albuquerque Public Schools</title>
+    <link>https://plone.com/success-stories/albuquerque-public-schools</link>
+    <description>Overcoming outdated technology, a lack of meaningful content, and noncompliance with a State Act.</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Academics</title>
+      <description></description>
+      
+      <pubDate>Fri, 12 Dec 2014 16:38:31 +0000</pubDate>
+      <guid>https://plone.com/success-stories/albuquerque-public-schools/academics/view</guid>
+    </item>
+    <item>
+      <title>Front Page</title>
+      <description></description>
+      
+      <pubDate>Fri, 12 Dec 2014 16:38:38 +0000</pubDate>
+      <guid>https://plone.com/success-stories/albuquerque-public-schools/front-page/view</guid>
+    </item>
+    <item>
+      <title>School</title>
+      <description></description>
+      
+      <pubDate>Fri, 12 Dec 2014 16:38:47 +0000</pubDate>
+      <guid>https://plone.com/success-stories/albuquerque-public-schools/school/view</guid>
+    </item>
+    <item>
+      <title>Calendar</title>
+      <description></description>
+      
+      <pubDate>Fri, 12 Dec 2014 16:39:05 +0000</pubDate>
+      <guid>https://plone.com/success-stories/albuquerque-public-schools/calendar/view</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://plone.com/success-stories/qubicaamf/RSS">
+  <title>QubicaAMF Portal</title>
+  <link>https://plone.com/success-stories/qubicaamf</link>
+  <description>QubicaAMF Worldwide has sales offices all over the world. RedTurtle worked with QubicaAMF to completely redesign their web portal using Plone 5.</description>
+  <image rdf:resource="https://plone.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/qubicaamf/wireframes/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/qubicaamf/1-j5WpS24JW0wB-dxvbbN6sw.jpeg/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/qubicaamf/Screenshot%20Bowling%20Alley%20Construction%20Supplies%202014%20QubicaAMF.jpg/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/qubicaamf/easy-back-end-interface-for-content-management/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/qubicaamf/sales-people-management/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://plone.com/success-stories/qubicaamf/wireframes/view">
+    <title>Wireframes</title>
+    <link>https://plone.com/success-stories/qubicaamf/wireframes/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-11-18T03:02:58Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/qubicaamf/1-j5WpS24JW0wB-dxvbbN6sw.jpeg/view">
+    <title>1-j5WpS24JW0wB-dxvbbN6sw.jpeg</title>
+    <link>https://plone.com/success-stories/qubicaamf/1-j5WpS24JW0wB-dxvbbN6sw.jpeg/view</link>
+    <description>Bowling ball hitting pins</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-11-18T03:22:01Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/qubicaamf/Screenshot%20Bowling%20Alley%20Construction%20Supplies%202014%20QubicaAMF.jpg/view">
+    <title>Screenshot Bowling Alley Construction Supplies — QubicaAMF.jpg</title>
+    <link>https://plone.com/success-stories/qubicaamf/Screenshot%20Bowling%20Alley%20Construction%20Supplies%202014%20QubicaAMF.jpg/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-12-19T20:59:48Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/qubicaamf/easy-back-end-interface-for-content-management/view">
+    <title>Easy back-end interface for content management</title>
+    <link>https://plone.com/success-stories/qubicaamf/easy-back-end-interface-for-content-management/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-11-18T03:03:54Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/qubicaamf/sales-people-management/view">
+    <title>Sales People Management</title>
+    <link>https://plone.com/success-stories/qubicaamf/sales-people-management/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-11-18T03:05:19Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

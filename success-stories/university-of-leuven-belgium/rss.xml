@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/success-stories/university-of-leuven-belgium/rss.xml"/>
+    <title>University of Leuven, Belgium</title>
+    <link>https://plone.com/success-stories/university-of-leuven-belgium</link>
+    <description>Implementing a University theme and central support.</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>University Homepage</title>
+      <description>standardized theme and page layout, example 1</description>
+      
+      <pubDate>Mon, 16 Mar 2015 17:53:22 +0000</pubDate>
+      <guid>https://plone.com/success-stories/university-of-leuven-belgium/Homepage/view</guid>
+    </item>
+    <item>
+      <title>Department of Physics and Astronomy</title>
+      <description>standardized theme and page layout, example 2</description>
+      
+      <pubDate>Mon, 16 Mar 2015 17:54:33 +0000</pubDate>
+      <guid>https://plone.com/success-stories/university-of-leuven-belgium/department-of-physics-and-astronomy/view</guid>
+    </item>
+    <item>
+      <title>Custom Site Example 1</title>
+      <description></description>
+      
+      <pubDate>Mon, 16 Mar 2015 17:55:18 +0000</pubDate>
+      <guid>https://plone.com/success-stories/university-of-leuven-belgium/custom-site-example-1/view</guid>
+    </item>
+    <item>
+      <title>Custom Site Example 2</title>
+      <description></description>
+      
+      <pubDate>Mon, 16 Mar 2015 17:55:34 +0000</pubDate>
+      <guid>https://plone.com/success-stories/university-of-leuven-belgium/custom-site-example-2/view</guid>
+    </item>
+  </channel>
+</rss>

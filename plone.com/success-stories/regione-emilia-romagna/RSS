@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://plone.com/success-stories/regione-emilia-romagna/RSS">
+  <title>Regione Emilia Romagna</title>
+  <link>https://plone.com/success-stories/regione-emilia-romagna</link>
+  <description>Migration of more than 200 government websites.</description>
+  <image rdf:resource="https://plone.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/regione-emilia-romagna/emilia-romagna-portal-for-businesses/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/regione-emilia-romagna/assemblea-legislativa/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/regione-emilia-romagna/e-r-homepage/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://plone.com/success-stories/regione-emilia-romagna/emilia-romagna-portal-for-businesses/view">
+    <title>Emilia Romagna Portal for Businesses</title>
+    <link>https://plone.com/success-stories/regione-emilia-romagna/emilia-romagna-portal-for-businesses/view</link>
+    <description>  Emilia Romagna Portal for Businesses</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-02T15:31:06Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/regione-emilia-romagna/assemblea-legislativa/view">
+    <title>Assemblea Legislativa</title>
+    <link>https://plone.com/success-stories/regione-emilia-romagna/assemblea-legislativa/view</link>
+    <description>Assemblea Legislativa homepage</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-02T15:30:51Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/regione-emilia-romagna/e-r-homepage/view">
+    <title>E-R Homepage</title>
+    <link>https://plone.com/success-stories/regione-emilia-romagna/e-r-homepage/view</link>
+    <description>E-R Homepage</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-02T15:16:15Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

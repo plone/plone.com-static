@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://plone.com/success-stories/federal-bureau-of-investigation/RSS">
+  <title>Federal Bureau of Investigation</title>
+  <link>https://plone.com/success-stories/federal-bureau-of-investigation</link>
+  <description>Needed: a large-scale, sophisticated communication tool</description>
+  <image rdf:resource="https://plone.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/federal-bureau-of-investigation/fbi-news/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/federal-bureau-of-investigation/fbi-front-page/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/federal-bureau-of-investigation/fbi-most-wanted/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/federal-bureau-of-investigation/fbi-podcasts/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/federal-bureau-of-investigation/fbi-homepage/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://plone.com/success-stories/federal-bureau-of-investigation/fbi-news/view">
+    <title>FBI News</title>
+    <link>https://plone.com/success-stories/federal-bureau-of-investigation/fbi-news/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-02T14:43:58Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/federal-bureau-of-investigation/fbi-front-page/view">
+    <title>FBI Front Page</title>
+    <link>https://plone.com/success-stories/federal-bureau-of-investigation/fbi-front-page/view</link>
+    <description>FBI Homepage</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-02T14:43:02Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/federal-bureau-of-investigation/fbi-most-wanted/view">
+    <title>FBI Most Wanted</title>
+    <link>https://plone.com/success-stories/federal-bureau-of-investigation/fbi-most-wanted/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-02T14:43:31Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/federal-bureau-of-investigation/fbi-podcasts/view">
+    <title>FBI Podcasts</title>
+    <link>https://plone.com/success-stories/federal-bureau-of-investigation/fbi-podcasts/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-02T14:44:19Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/federal-bureau-of-investigation/fbi-homepage/view">
+    <title>FBI Homepage</title>
+    <link>https://plone.com/success-stories/federal-bureau-of-investigation/fbi-homepage/view</link>
+    <description>FBI Homepage</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-02T14:47:33Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

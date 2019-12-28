@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://plone.com/providers" xml:lang="en">
+  <link rel="self" href="https://plone.com/providers/atom.xml" type="application/atom+xml"/>
+  <title type="html">Providers</title>
+  <subtitle>Individuals and organizations who provide Plone and related services</subtitle>
+  <updated>2015-09-07T18:23:49+00:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://plone.com/providers/"/>
+  <id>urn:syndication:7e3e238cf74b4a9c84bbacc2ad233025</id>
+  <logo>https://plone.com/logo.png</logo>
+  <icon>https://plone.com/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>Premium Sponsors</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/providers/premium"/>
+      
+      <id>urn:syndication:65edfe654b924b8eaee9c4c81f2bc051</id>
+      
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-03-13T14:55:00+00:00</published>
+
+      <updated>2015-03-25T17:48:40+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Sponsors</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/providers/sponsors"/>
+      
+      <id>urn:syndication:20ed5e799c7a430690208c8728af5b70</id>
+      
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-03-13T15:40:00+00:00</published>
+
+      <updated>2015-03-25T17:48:16+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Providers</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/providers/basic"/>
+      
+      <id>urn:syndication:2cac84405abc4d5c9297f24b9b043179</id>
+      
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-03-24T21:45:00+00:00</published>
+
+      <updated>2018-05-11T15:16:13+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Other Sponsors</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/providers/other-sponsors"/>
+      
+      <id>urn:syndication:67bc0cd7d7f542c5b5eedcda0e81f4a3</id>
+      
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-05-09T17:40:31+00:00</published>
+
+      <updated>2015-05-09T17:40:31+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Providers in create order</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/providers/providers-in-create-order"/>
+      
+      <id>urn:syndication:a79e14696077441e888def5f821750c9</id>
+      
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2016-04-07T16:16:59+00:00</published>
+
+      <updated>2016-04-07T16:16:59+00:00</updated>
+
+
+    </entry>
+
+  
+
+</feed>

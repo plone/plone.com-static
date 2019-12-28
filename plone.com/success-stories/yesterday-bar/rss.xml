@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/success-stories/yesterday-bar/rss.xml"/>
+    <title>Yesterday Bar</title>
+    <link>https://plone.com/success-stories/yesterday-bar</link>
+    <description>The site for Yesterday - Die Bar provides a full experience for users to explore images and details of the drinks available at the bar.</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>yb_bestof.png</title>
+      <description></description>
+      
+      <pubDate>Sat, 24 Mar 2018 19:57:22 +0000</pubDate>
+      <guid>https://plone.com/success-stories/yesterday-bar/yb_bestof.png/view</guid>
+    </item>
+    <item>
+      <title>yb_detail.png</title>
+      <description></description>
+      
+      <pubDate>Sat, 24 Mar 2018 19:57:35 +0000</pubDate>
+      <guid>https://plone.com/success-stories/yesterday-bar/yb_detail.png/view</guid>
+    </item>
+    <item>
+      <title>yb_news.png</title>
+      <description></description>
+      
+      <pubDate>Sat, 24 Mar 2018 19:57:49 +0000</pubDate>
+      <guid>https://plone.com/success-stories/yesterday-bar/yb_news.png/view</guid>
+    </item>
+  </channel>
+</rss>

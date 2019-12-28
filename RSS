@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://plone.com/RSS">
+  <title>Plone - The Ultimate Open Source Enterprise CMS</title>
+  <link>https://plone.com</link>
+  <description></description>
+  <image rdf:resource="https://plone.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://plone.com/pycon"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/providers/basic/forcontent"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/yesterday-bar"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/providers/sponsors/zopyx"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/providers/sponsors/4teamwork"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/each-one-teach-one"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/qubicaamf"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/nonprofit"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/humanitas"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/providers/sponsors/operun"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/cambridge-drawing-society"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/providers/sponsors/kitconcept"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/providers/basic/bit4mation"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/secure"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://plone.com/pycon">
+    <title>Plone at PyCon 2019</title>
+    <link>https://plone.com/pycon</link>
+    <description>Plone will be at PyCon 2019!</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2019-04-25T15:00:00Z</dc:date>
+    <dc:type>Document</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/providers/basic/forcontent">
+    <title>ForContent</title>
+    <link>https://plone.com/providers/basic/forcontent</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>region: South America</dc:subject>
+    
+    
+      <dc:subject>country: Brazil</dc:subject>
+    
+    <dc:date>2018-09-16T13:14:39Z</dc:date>
+    <dc:type>Provider</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/yesterday-bar">
+    <title>Yesterday Bar</title>
+    <link>https://plone.com/success-stories/yesterday-bar</link>
+    <description>The site for Yesterday - Die Bar provides a full experience for users to explore images and details of the drinks available at the bar.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2018-03-24T19:59:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/providers/sponsors/zopyx">
+    <title>ZOPYX</title>
+    <link>https://plone.com/providers/sponsors/zopyx</link>
+    <description>Specialists for large-scale Plone solutions, electronic publishing applications and individual Python software development since 2004</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>country: Germany</dc:subject>
+    
+    
+      <dc:subject>region: Europe</dc:subject>
+    
+    <dc:date>2018-02-16T21:43:37Z</dc:date>
+    <dc:type>Provider</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/providers/sponsors/4teamwork">
+    <title>4teamwork AG</title>
+    <link>https://plone.com/providers/sponsors/4teamwork</link>
+    <description>State-of-the-art web applications for enterprise content management (ECM, CMS), intranet, records management (GEVER), and collaboration.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>region: Europe</dc:subject>
+    
+    
+      <dc:subject>country: Switzerland</dc:subject>
+    
+    <dc:date>2018-01-15T06:54:48Z</dc:date>
+    <dc:type>Provider</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/each-one-teach-one">
+    <title>Each One Teach One</title>
+    <link>https://plone.com/success-stories/each-one-teach-one</link>
+    <description>Each One Teach One, also known as EOTO, is a program for those who want to get to know students from different countries and learn different languages. Students teach each other their mother tongues and learn the language of their partner.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2018-01-11T04:42:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich">
+    <title>Quaive Social Intranet for the Synodal Council in Zurich</title>
+    <link>https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich</link>
+    <description>Quaive, a Plone-powered intranet platform, is pivotal in supporting the digital transition for the Catholic church in Zürich.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-12-23T01:47:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/qubicaamf">
+    <title>QubicaAMF Portal</title>
+    <link>https://plone.com/success-stories/qubicaamf</link>
+    <description>QubicaAMF Worldwide has sales offices all over the world. RedTurtle worked with QubicaAMF to completely redesign their web portal using Plone 5.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-11-18T03:23:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/nonprofit">
+    <title>Plone for Non-Profits</title>
+    <link>https://plone.com/nonprofit</link>
+    <description>Plone is the ideal web platform for non-profits, with its ease of use, security, and configurability by non-programmers.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-10-26T16:10:00Z</dc:date>
+    <dc:type>Document</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/humanitas">
+    <title>Humanitas Volunteer Management Software</title>
+    <link>https://plone.com/success-stories/humanitas</link>
+    <description>One of the main social services and community building organizations of the Netherlands uses Plone to securely coordinate volunteers with their projects without exposing private client information to volunteers outside the project.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-05-29T16:49:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/providers/sponsors/operun">
+    <title>operun webagentur</title>
+    <link>https://plone.com/providers/sponsors/operun</link>
+    <description>operun provides consulting, design and development for websites and applications based on Plone and Python. </description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>country: Germany</dc:subject>
+    
+    
+      <dc:subject>region: Europe</dc:subject>
+    
+    <dc:date>2017-05-04T16:25:00Z</dc:date>
+    <dc:type>Provider</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/cambridge-drawing-society">
+    <title>Cambridge Drawing Society</title>
+    <link>https://plone.com/success-stories/cambridge-drawing-society</link>
+    <description>A simple Plone site that allows non-technical  Society members to manage their own portfolios</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-04-20T00:40:00Z</dc:date>
+    <dc:type>case_study</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/providers/sponsors/kitconcept">
+    <title>kitconcept</title>
+    <link>https://plone.com/providers/sponsors/kitconcept</link>
+    <description>one of the most experienced European Plone companies</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>country: Germany</dc:subject>
+    
+    
+      <dc:subject>region: Europe</dc:subject>
+    
+    <dc:date>2017-02-10T22:45:00Z</dc:date>
+    <dc:type>Provider</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/providers/basic/bit4mation">
+    <title>bit4mation UG</title>
+    <link>https://plone.com/providers/basic/bit4mation</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>country: Germany</dc:subject>
+    
+    
+      <dc:subject>region: Europe</dc:subject>
+    
+    <dc:date>2016-11-04T19:15:00Z</dc:date>
+    <dc:type>Provider</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/secure">
+    <title>Plone: enterprise-scale power *and* security</title>
+    <link>https://plone.com/secure</link>
+    <description>NO ZERO DAY EVER. Never. Nada. Zilch. 10 reasons behind an extraordinary security track record.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2016-05-26T21:45:00Z</dc:date>
+    <dc:type>Document</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

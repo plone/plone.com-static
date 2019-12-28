@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://plone.com/success-stories/the-metropolitan-redevelopment-authority/RSS">
+  <title>The Metropolitan Redevelopment Authority</title>
+  <link>https://plone.com/success-stories/the-metropolitan-redevelopment-authority</link>
+  <description>Transform a website to transform a city</description>
+  <image rdf:resource="https://plone.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-1/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-2/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-3/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-4/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-1/view">
+    <title>Hero version 1</title>
+    <link>https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-1/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-21T14:32:35Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-2/view">
+    <title>Hero version 2</title>
+    <link>https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-2/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-21T14:33:14Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-3/view">
+    <title>Hero version 3</title>
+    <link>https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-3/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-21T14:33:34Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-4/view">
+    <title>Hero version 4</title>
+    <link>https://plone.com/success-stories/the-metropolitan-redevelopment-authority/hero-version-4/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-09-21T14:33:53Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

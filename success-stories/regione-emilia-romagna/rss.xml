@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/success-stories/regione-emilia-romagna/rss.xml"/>
+    <title>Regione Emilia Romagna</title>
+    <link>https://plone.com/success-stories/regione-emilia-romagna</link>
+    <description>Migration of more than 200 government websites.</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Emilia Romagna Portal for Businesses</title>
+      <description>  Emilia Romagna Portal for Businesses</description>
+      
+      <pubDate>Wed, 02 Sep 2015 15:31:06 +0000</pubDate>
+      <guid>https://plone.com/success-stories/regione-emilia-romagna/emilia-romagna-portal-for-businesses/view</guid>
+    </item>
+    <item>
+      <title>Assemblea Legislativa</title>
+      <description>Assemblea Legislativa homepage</description>
+      
+      <pubDate>Wed, 02 Sep 2015 15:30:51 +0000</pubDate>
+      <guid>https://plone.com/success-stories/regione-emilia-romagna/assemblea-legislativa/view</guid>
+    </item>
+    <item>
+      <title>E-R Homepage</title>
+      <description>E-R Homepage</description>
+      
+      <pubDate>Wed, 02 Sep 2015 15:16:15 +0000</pubDate>
+      <guid>https://plone.com/success-stories/regione-emilia-romagna/e-r-homepage/view</guid>
+    </item>
+  </channel>
+</rss>

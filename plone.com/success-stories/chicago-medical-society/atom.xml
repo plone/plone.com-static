@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://plone.com/success-stories/chicago-medical-society" xml:lang="en">
+  <link rel="self" href="https://plone.com/success-stories/chicago-medical-society/atom.xml" type="application/atom+xml"/>
+  <title type="html">Chicago Medical Society</title>
+  <subtitle>Ditching disparate, independent services for a seamless solution.</subtitle>
+  <updated>2017-12-15T03:52:26+00:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="https://plone.com/success-stories/chicago-medical-society/"/>
+  <id>urn:syndication:d64b603127e043d7b29a1fbd1cee91ab</id>
+  <logo>https://plone.com/logo.png</logo>
+  <icon>https://plone.com/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  
+
+  
+    <entry>
+      <title>CMS Calendar of Events</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/chicago-medical-society/cms-calendar-of-events/view"/>
+      
+      <id>urn:syndication:75bb31831951430babe6505e29b29cac</id>
+      
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-02-25T20:52:38+00:00</published>
+
+      <updated>2015-02-25T20:52:38+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>CMS Online Forms</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/chicago-medical-society/cms-online-forms/view"/>
+      
+      <id>urn:syndication:c94dbf58bfe342a3b06e491bb767d91a</id>
+      
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-02-25T20:53:03+00:00</published>
+
+      <updated>2015-02-25T20:53:03+00:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>CMS Connect</title>
+      <link rel="alternate" type="text/html" href="https://plone.com/success-stories/chicago-medical-society/cms-connect/view"/>
+      
+      <id>urn:syndication:a58debf5cd7846ec8560d86e0d15a6a8</id>
+      
+      
+
+      <author>
+        
+        <name>cmcneill</name>
+        
+      </author>
+
+      <published>2015-02-25T20:53:23+00:00</published>
+
+      <updated>2015-02-25T20:53:23+00:00</updated>
+
+
+    </entry>
+
+  
+
+</feed>

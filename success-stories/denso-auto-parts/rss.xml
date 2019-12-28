@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/success-stories/denso-auto-parts/rss.xml"/>
+    <title>Denso Auto</title>
+    <link>https://plone.com/success-stories/denso-auto-parts</link>
+    <description>A global solution for parts management.</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Denso Intranet Parts Listing Screenshot</title>
+      <description></description>
+      
+      <pubDate>Fri, 13 Mar 2015 16:33:55 +0000</pubDate>
+      <guid>https://plone.com/success-stories/denso-auto-parts/denso-intranet-parts-listing-screenshot/view</guid>
+    </item>
+  </channel>
+</rss>

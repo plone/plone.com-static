@@ -1,0 +1,37 @@
+HTTrack3.49-2 launched on Sat, 17 Aug 2019 23:57:00 at https://plone.com/
+(httrack https://plone.com/ -O plone.com -r6 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:03:14	Error: 	"Not Found" (404) at link https://plone.com/click.T (from https://plone.com/portal_javascripts/Sunburst Theme/resourceplone.app.jquery-cachekey-35f52531085409d521dcbe8153593cd0.js)
+00:03:14	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20190817/images/favicon.ico (from https://plone.com/@@search)
+00:03:47	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20180828/static/css/prev.gif (from https://plone.com/++theme++theme-for-plone-com-20180828/static/css/resourceplone.css)
+00:03:47	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20180828/static/css/next.gif (from https://plone.com/++theme++theme-for-plone-com-20180828/static/css/resourceplone.css)
+00:03:47	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20180828/static/css/popup_calendar.png (from https://plone.com/++theme++theme-for-plone-com-20180828/static/css/resourceplone.css)
+00:03:47	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20180828/static/images/portal_content.png (from https://plone.com/++theme++theme-for-plone-com-20180828/static/css/themediazotheme.css)
+00:03:47	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20180828/static/images/content.png (from https://plone.com/++theme++theme-for-plone-com-20180828/static/css/themediazotheme.css)
+00:03:47	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20180828/static/images/content_l_r.png (from https://plone.com/++theme++theme-for-plone-com-20180828/static/css/themediazotheme.css)
+00:03:47	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20180828/static/images/read_more.png (from https://plone.com/++theme++theme-for-plone-com-20180828/static/css/themediazotheme.css)
+00:03:47	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20180828/static/images/3.png (from https://plone.com/++theme++theme-for-plone-com-20180828/static/css/themediazotheme.css)
+00:03:47	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20180828/static/images/event_icon.png (from https://plone.com/++theme++theme-for-plone-com-20180828/static/css/themediazotheme.css)
+00:07:41	Warning: 	Link plone.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+00:10:29	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20190817/static/css/prev.gif (from https://plone.com/++theme++theme-for-plone-com-20190817/static/css/resourceplone.css)
+00:10:29	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20190817/static/css/next.gif (from https://plone.com/++theme++theme-for-plone-com-20190817/static/css/resourceplone.css)
+00:10:29	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20190817/static/css/popup_calendar.png (from https://plone.com/++theme++theme-for-plone-com-20190817/static/css/resourceplone.css)
+00:10:29	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20190817/static/images/portal_content.png (from https://plone.com/++theme++theme-for-plone-com-20190817/static/css/themediazotheme.css)
+00:10:29	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20190817/static/images/content.png (from https://plone.com/++theme++theme-for-plone-com-20190817/static/css/themediazotheme.css)
+00:10:29	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20190817/static/images/content_l_r.png (from https://plone.com/++theme++theme-for-plone-com-20190817/static/css/themediazotheme.css)
+00:10:29	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20190817/static/images/read_more.png (from https://plone.com/++theme++theme-for-plone-com-20190817/static/css/themediazotheme.css)
+00:10:29	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20190817/static/images/3.png (from https://plone.com/++theme++theme-for-plone-com-20190817/static/css/themediazotheme.css)
+00:10:29	Error: 	"Not Found" (404) at link https://plone.com/++theme++theme-for-plone-com-20190817/static/images/event_icon.png (from https://plone.com/++theme++theme-for-plone-com-20190817/static/css/themediazotheme.css)
+00:10:33	Error: 	"Not Found" (404) at link https://plone.com/success-story-submissions/success-story-submission-form/success_story_form.js (from https://plone.com/success-story-submissions/success-story-submission-form)
+00:10:33	Error: 	"Not Found" (404) at link https://plone.com/"img/home.png/" (from https://plone.com/success-story-submissions/success-story-submission-form)
+00:10:33	Error: 	"Not Found" (404) at link https://plone.com/"https://plone.com/">Home</a>/n (from https://plone.com/success-story-submissions/success-story-submission-form)
+00:10:33	Error: 	"Not Found" (404) at link https://plone.com/"img/folder_current.png/" (from https://plone.com/success-story-submissions/success-story-submission-form)
+00:10:33	Error: 	"Not Found" (404) at link https://plone.com/"https://plone.com/success-story-submissions/success-story-submission-form/">Current (from https://plone.com/success-story-submissions/success-story-submission-form)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 31 seconds : 1229 links scanned, 1202 files written (62801683 bytes overall) [44395519 bytes received at 36064 bytes/sec], 23862897 bytes transferred using HTTP compression in 722 files, ratio 17%, 53.6 requests per connection
+(25 errors, 1 warnings, 0 messages)

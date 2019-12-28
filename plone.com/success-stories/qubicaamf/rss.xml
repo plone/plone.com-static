@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/success-stories/qubicaamf/rss.xml"/>
+    <title>QubicaAMF Portal</title>
+    <link>https://plone.com/success-stories/qubicaamf</link>
+    <description>QubicaAMF Worldwide has sales offices all over the world. RedTurtle worked with QubicaAMF to completely redesign their web portal using Plone 5.</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Wireframes</title>
+      <description></description>
+      
+      <pubDate>Sat, 18 Nov 2017 03:02:58 +0000</pubDate>
+      <guid>https://plone.com/success-stories/qubicaamf/wireframes/view</guid>
+    </item>
+    <item>
+      <title>1-j5WpS24JW0wB-dxvbbN6sw.jpeg</title>
+      <description>Bowling ball hitting pins</description>
+      
+      <pubDate>Sat, 18 Nov 2017 03:22:01 +0000</pubDate>
+      <guid>https://plone.com/success-stories/qubicaamf/1-j5WpS24JW0wB-dxvbbN6sw.jpeg/view</guid>
+    </item>
+    <item>
+      <title>Screenshot Bowling Alley Construction Supplies — QubicaAMF.jpg</title>
+      <description></description>
+      
+      <pubDate>Tue, 19 Dec 2017 20:59:48 +0000</pubDate>
+      <guid>https://plone.com/success-stories/qubicaamf/Screenshot%20Bowling%20Alley%20Construction%20Supplies%202014%20QubicaAMF.jpg/view</guid>
+    </item>
+    <item>
+      <title>Easy back-end interface for content management</title>
+      <description></description>
+      
+      <pubDate>Sat, 18 Nov 2017 03:03:54 +0000</pubDate>
+      <guid>https://plone.com/success-stories/qubicaamf/easy-back-end-interface-for-content-management/view</guid>
+    </item>
+    <item>
+      <title>Sales People Management</title>
+      <description></description>
+      
+      <pubDate>Sat, 18 Nov 2017 03:05:19 +0000</pubDate>
+      <guid>https://plone.com/success-stories/qubicaamf/sales-people-management/view</guid>
+    </item>
+  </channel>
+</rss>

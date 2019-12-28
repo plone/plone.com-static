@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://plone.com/success-stories/chicago-medical-society/RSS">
+  <title>Chicago Medical Society</title>
+  <link>https://plone.com/success-stories/chicago-medical-society</link>
+  <description>Ditching disparate, independent services for a seamless solution.</description>
+  <image rdf:resource="https://plone.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/chicago-medical-society/cms-calendar-of-events/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/chicago-medical-society/cms-online-forms/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/chicago-medical-society/cms-connect/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://plone.com/success-stories/chicago-medical-society/cms-calendar-of-events/view">
+    <title>CMS Calendar of Events</title>
+    <link>https://plone.com/success-stories/chicago-medical-society/cms-calendar-of-events/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-02-25T20:52:38Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/chicago-medical-society/cms-online-forms/view">
+    <title>CMS Online Forms</title>
+    <link>https://plone.com/success-stories/chicago-medical-society/cms-online-forms/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-02-25T20:53:03Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/chicago-medical-society/cms-connect/view">
+    <title>CMS Connect</title>
+    <link>https://plone.com/success-stories/chicago-medical-society/cms-connect/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2015-02-25T20:53:23Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

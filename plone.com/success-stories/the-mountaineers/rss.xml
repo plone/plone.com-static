@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/success-stories/the-mountaineers/rss.xml"/>
+    <title>The Mountaineers</title>
+    <link>https://plone.com/success-stories/the-mountaineers</link>
+    <description>A complex, member­-driven website with e-commerce and Salesforce.com integration</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Activity Search Page</title>
+      <description>Features multiple search criteria and dynamically loaded results</description>
+      
+      <pubDate>Mon, 21 Sep 2015 12:56:38 +0000</pubDate>
+      <guid>https://plone.com/success-stories/the-mountaineers/activity-search-page/view</guid>
+    </item>
+    <item>
+      <title>Badges</title>
+      <description></description>
+      
+      <pubDate>Mon, 21 Sep 2015 12:57:29 +0000</pubDate>
+      <guid>https://plone.com/success-stories/the-mountaineers/badges/view</guid>
+    </item>
+  </channel>
+</rss>

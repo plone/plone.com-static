@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/providers/basic/rss.xml"/>
+    <title>Providers</title>
+    <link>https://plone.com/providers/basic</link>
+    <description></description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Makina Corpus</title>
+      <description></description>
+      
+      <pubDate>Mon, 20 Apr 2015 13:25:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/makina-corpus</guid>
+    </item>
+    <item>
+      <title>PythonUnited</title>
+      <description></description>
+      
+      <pubDate>Wed, 04 Nov 2015 23:05:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/pythonunited</guid>
+    </item>
+    <item>
+      <title>BubbleNet</title>
+      <description></description>
+      
+      <pubDate>Mon, 20 Apr 2015 13:25:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/bubblenet</guid>
+    </item>
+    <item>
+      <title>Business Webbing Systems</title>
+      <description></description>
+      
+      <pubDate>Mon, 20 Apr 2015 13:25:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/business-webbing-systems</guid>
+    </item>
+    <item>
+      <title>SEMIC – SERVICIOS MICROINFORMATICA S.A.</title>
+      <description></description>
+      
+      <pubDate>Sat, 24 Oct 2015 19:40:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/semic</guid>
+    </item>
+    <item>
+      <title>bit4mation UG</title>
+      <description></description>
+      
+      <pubDate>Fri, 04 Nov 2016 19:15:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/bit4mation</guid>
+    </item>
+    <item>
+      <title>Reid-McMahon, LLC</title>
+      <description></description>
+      
+      <pubDate>Mon, 20 Apr 2015 13:25:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/reid-mcmahon</guid>
+    </item>
+    <item>
+      <title>Ecréall</title>
+      <description></description>
+      
+      <pubDate>Mon, 20 Apr 2015 13:25:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/ecreall</guid>
+    </item>
+    <item>
+      <title>Four Digits</title>
+      <description></description>
+      
+      <pubDate>Mon, 20 Apr 2015 13:25:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/four-digits</guid>
+    </item>
+    <item>
+      <title>Prontonet</title>
+      <description></description>
+      
+      <pubDate>Wed, 04 Nov 2015 23:05:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/prontonet</guid>
+    </item>
+    <item>
+      <title>Flying Circus Internet Operations GmbH</title>
+      <description></description>
+      
+      <pubDate>Thu, 12 Nov 2015 14:35:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/flyingcircus</guid>
+    </item>
+    <item>
+      <title>Rohberg</title>
+      <description></description>
+      
+      <pubDate>Fri, 08 Apr 2016 23:05:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/rohberg</guid>
+    </item>
+    <item>
+      <title>ForContent</title>
+      <description></description>
+      
+      <pubDate>Sun, 16 Sep 2018 13:14:39 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/forcontent</guid>
+    </item>
+    <item>
+      <title>agitator Weblösungen</title>
+      <description></description>
+      
+      <pubDate>Fri, 08 Apr 2016 23:05:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/agitator</guid>
+    </item>
+    <item>
+      <title>it-spirit</title>
+      <description></description>
+      
+      <pubDate>Thu, 12 Nov 2015 14:35:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/it-spirit</guid>
+    </item>
+  </channel>
+</rss>

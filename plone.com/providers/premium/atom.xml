@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://plone.com/providers/premium" xml:lang="en">
+  <link rel="self" href="http://plone.com/providers/premium/atom.xml" type="application/atom+xml"/>
+  <title type="html">Premium Sponsors</title>
+  
+  <updated>2015-03-25T17:48:40+00:00</updated>
+  <link href="atom.xml" rel="alternate" type="text/html" xml:base="http://plone.com/providers/premium/"/>
+  <id>urn:syndication:65edfe654b924b8eaee9c4c81f2bc051</id>
+  <logo>http://plone.com/logo.png</logo>
+  <icon>http://plone.com/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  <author>
+    <name>Kim Nguyen</name>
+    <email>tknguyen@mac.com</email>
+  </author>
+
+  
+    <entry>
+      <title>Starzel</title>
+      <link rel="alternate" type="text/html" href="http://plone.com/providers/premium/starzel"/>
+      
+      <id>urn:syndication:adc770058384405e81f189266ee4e00d</id>
+      <summary>creating websites and web applications since 1998</summary>
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-04-20T13:25:00+00:00</published>
+
+      <updated>2018-09-11T14:40:54+00:00</updated>
+
+      
+        <category term="country: Germany"/>
+      
+      
+        <category term="region: Europe"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Soliton Consulting</title>
+      <link rel="alternate" type="text/html" href="http://plone.com/providers/premium/soliton-consulting"/>
+      
+      <id>urn:syndication:af0eeba0665e4599a734a0bfd93ecdb2</id>
+      <summary>Based in Seattle, WA (USA), Soliton Consulting specializes in Plone to deliver web development, support, hosting and training services to local, national and international clients. Our solutions are highly performant, scalable, and secure.</summary>
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-04-20T13:25:00+00:00</published>
+
+      <updated>2016-04-08T22:46:33+00:00</updated>
+
+      
+        <category term="region: North America"/>
+      
+      
+        <category term="country: United States"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Enfold Systems</title>
+      <link rel="alternate" type="text/html" href="http://plone.com/providers/premium/enfold-systems"/>
+      
+      <id>urn:syndication:f6b7533440134f2d9eff41c648094b32</id>
+      <summary>Founded by Alan Runyan, co-founder of Plone, Enfold Systems is one of the most experienced providers of solutions based on Plone</summary>
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-03-13T14:35:00+00:00</published>
+
+      <updated>2016-05-31T01:26:04+00:00</updated>
+
+      
+        <category term="region: North America"/>
+      
+      
+        <category term="country: United States"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>PSW GROUP GmbH &amp; Co. KG</title>
+      <link rel="alternate" type="text/html" href="http://plone.com/providers/premium/psw-group-gmbh-co-kg"/>
+      
+      <id>urn:syndication:9741fae7f6c845c9a97433cf4c9d858e</id>
+      <summary>PSW GROUP is a full service provider for Internet solutions with a focus on Internet security in Germany</summary>
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-03-13T15:30:00+00:00</published>
+
+      <updated>2016-05-31T01:29:18+00:00</updated>
+
+      
+        <category term="country: Germany"/>
+      
+      
+        <category term="region: Europe"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Six Feet Up, Inc.</title>
+      <link rel="alternate" type="text/html" href="http://plone.com/providers/premium/six-feet-up-inc"/>
+      
+      <id>urn:syndication:d0226a5e722e485581d53bfe37acde2c</id>
+      <summary>Six Feet Up is a WBE software company that helps IT teams grow enterprise-grade web projects.</summary>
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-03-13T14:30:00+00:00</published>
+
+      <updated>2016-05-31T01:30:06+00:00</updated>
+
+      
+        <category term="region: North America"/>
+      
+      
+        <category term="country: United States"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Syslab.com</title>
+      <link rel="alternate" type="text/html" href="http://plone.com/providers/premium/syslab.com"/>
+      
+      <id>urn:syndication:f7356dcbbd634285b233576744dec9dc</id>
+      <summary>Quaive Social Intranet, risk assessment tools and powerful web solutions based on Plone created by passionate teams.</summary>
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-03-13T14:50:00+00:00</published>
+
+      <updated>2017-12-22T14:51:31+00:00</updated>
+
+      
+        <category term="country: Germany"/>
+      
+      
+        <category term="region: Europe"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Jazkarta</title>
+      <link rel="alternate" type="text/html" href="http://plone.com/providers/premium/jazkarta"/>
+      
+      <id>urn:syndication:4976afb9a2e240d19c326e81d5075a77</id>
+      <summary>Jazkarta creates websites and web applications with open source software</summary>
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-03-13T14:50:00+00:00</published>
+
+      <updated>2016-06-07T13:48:36+00:00</updated>
+
+      
+        <category term="region: North America"/>
+      
+      
+        <category term="country: United States"/>
+      
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>TheVirtual Limited</title>
+      <link rel="alternate" type="text/html" href="http://plone.com/providers/premium/thevirtual"/>
+      
+      <id>urn:syndication:3f8e5982fde744b3813af3f0fea4b237</id>
+      <summary>TheVirtual specialise in building feature rich websites, intranets and web applications. We are a
+small agile team who go out of our way to see that our clients projects are successful.</summary>
+      
+
+      <author>
+        
+        <name>knguyen</name>
+        
+      </author>
+
+      <published>2015-03-13T14:50:00+00:00</published>
+
+      <updated>2017-12-07T04:48:55+00:00</updated>
+
+      
+        <category term="country: New Zealand"/>
+      
+      
+        <category term="region: Australia/NZ"/>
+      
+
+    </entry>
+
+  
+
+</feed>

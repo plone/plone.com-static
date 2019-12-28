@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/rss.xml"/>
+    <title>Plone - The Ultimate Open Source Enterprise CMS</title>
+    <link>https://plone.com</link>
+    <description></description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>Plone at PyCon 2019</title>
+      <description>Plone will be at PyCon 2019!</description>
+      
+      <pubDate>Thu, 25 Apr 2019 15:00:00 +0000</pubDate>
+      <guid>https://plone.com/pycon</guid>
+    </item>
+    <item>
+      <title>ForContent</title>
+      <description></description>
+      
+      <pubDate>Sun, 16 Sep 2018 13:14:39 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/forcontent</guid>
+    </item>
+    <item>
+      <title>Yesterday Bar</title>
+      <description>The site for Yesterday - Die Bar provides a full experience for users to explore images and details of the drinks available at the bar.</description>
+      
+      <pubDate>Sat, 24 Mar 2018 19:59:00 +0000</pubDate>
+      <guid>https://plone.com/success-stories/yesterday-bar</guid>
+    </item>
+    <item>
+      <title>ZOPYX</title>
+      <description>Specialists for large-scale Plone solutions, electronic publishing applications and individual Python software development since 2004</description>
+      
+      <pubDate>Fri, 16 Feb 2018 21:43:37 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/zopyx</guid>
+    </item>
+    <item>
+      <title>4teamwork AG</title>
+      <description>State-of-the-art web applications for enterprise content management (ECM, CMS), intranet, records management (GEVER), and collaboration.</description>
+      
+      <pubDate>Mon, 15 Jan 2018 06:54:48 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/4teamwork</guid>
+    </item>
+    <item>
+      <title>Each One Teach One</title>
+      <description>Each One Teach One, also known as EOTO, is a program for those who want to get to know students from different countries and learn different languages. Students teach each other their mother tongues and learn the language of their partner.</description>
+      
+      <pubDate>Thu, 11 Jan 2018 04:42:00 +0000</pubDate>
+      <guid>https://plone.com/success-stories/each-one-teach-one</guid>
+    </item>
+    <item>
+      <title>Quaive Social Intranet for the Synodal Council in Zurich</title>
+      <description>Quaive, a Plone-powered intranet platform, is pivotal in supporting the digital transition for the Catholic church in Zürich.</description>
+      
+      <pubDate>Sat, 23 Dec 2017 01:47:00 +0000</pubDate>
+      <guid>https://plone.com/success-stories/quaive-social-intranet-for-the-synodal-council-in-zurich</guid>
+    </item>
+    <item>
+      <title>QubicaAMF Portal</title>
+      <description>QubicaAMF Worldwide has sales offices all over the world. RedTurtle worked with QubicaAMF to completely redesign their web portal using Plone 5.</description>
+      
+      <pubDate>Sat, 18 Nov 2017 03:23:00 +0000</pubDate>
+      <guid>https://plone.com/success-stories/qubicaamf</guid>
+    </item>
+    <item>
+      <title>Plone for Non-Profits</title>
+      <description>Plone is the ideal web platform for non-profits, with its ease of use, security, and configurability by non-programmers.</description>
+      
+      <pubDate>Thu, 26 Oct 2017 16:10:00 +0000</pubDate>
+      <guid>https://plone.com/nonprofit</guid>
+    </item>
+    <item>
+      <title>Humanitas Volunteer Management Software</title>
+      <description>One of the main social services and community building organizations of the Netherlands uses Plone to securely coordinate volunteers with their projects without exposing private client information to volunteers outside the project.</description>
+      
+      <pubDate>Mon, 29 May 2017 16:49:00 +0000</pubDate>
+      <guid>https://plone.com/success-stories/humanitas</guid>
+    </item>
+    <item>
+      <title>operun webagentur</title>
+      <description>operun provides consulting, design and development for websites and applications based on Plone and Python. </description>
+      
+      <pubDate>Thu, 04 May 2017 16:25:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/operun</guid>
+    </item>
+    <item>
+      <title>Cambridge Drawing Society</title>
+      <description>A simple Plone site that allows non-technical  Society members to manage their own portfolios</description>
+      
+      <pubDate>Thu, 20 Apr 2017 00:40:00 +0000</pubDate>
+      <guid>https://plone.com/success-stories/cambridge-drawing-society</guid>
+    </item>
+    <item>
+      <title>kitconcept</title>
+      <description>one of the most experienced European Plone companies</description>
+      
+      <pubDate>Fri, 10 Feb 2017 22:45:00 +0000</pubDate>
+      <guid>https://plone.com/providers/sponsors/kitconcept</guid>
+    </item>
+    <item>
+      <title>bit4mation UG</title>
+      <description></description>
+      
+      <pubDate>Fri, 04 Nov 2016 19:15:00 +0000</pubDate>
+      <guid>https://plone.com/providers/basic/bit4mation</guid>
+    </item>
+    <item>
+      <title>Plone: enterprise-scale power *and* security</title>
+      <description>NO ZERO DAY EVER. Never. Nada. Zilch. 10 reasons behind an extraordinary security track record.</description>
+      
+      <pubDate>Thu, 26 May 2016 21:45:00 +0000</pubDate>
+      <guid>https://plone.com/secure</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://plone.com/success-stories/each-one-teach-one/RSS">
+  <title>Each One Teach One</title>
+  <link>https://plone.com/success-stories/each-one-teach-one</link>
+  <description>Each One Teach One, also known as EOTO, is a program for those who want to get to know students from different countries and learn different languages. Students teach each other their mother tongues and learn the language of their partner.</description>
+  <image rdf:resource="https://plone.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/each-one-teach-one/1Screen%20Shot%202017-12-20%20at%2014.25.56.png/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/each-one-teach-one/2Screen%20Shot%202017-12-20%20at%2014.27.18.png/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/each-one-teach-one/3eoto-studentview.png/view"/>
+      
+      
+        <rdf:li rdf:resource="https://plone.com/success-stories/each-one-teach-one/4eoto-studyplan.png/view"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://plone.com/success-stories/each-one-teach-one/1Screen%20Shot%202017-12-20%20at%2014.25.56.png/view">
+    <title>1Screen Shot 2017-12-20 at 14.25.56.png</title>
+    <link>https://plone.com/success-stories/each-one-teach-one/1Screen%20Shot%202017-12-20%20at%2014.25.56.png/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-12-23T02:59:59Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/each-one-teach-one/2Screen%20Shot%202017-12-20%20at%2014.27.18.png/view">
+    <title>2Screen Shot 2017-12-20 at 14.27.18.png</title>
+    <link>https://plone.com/success-stories/each-one-teach-one/2Screen%20Shot%202017-12-20%20at%2014.27.18.png/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-12-23T03:00:17Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/each-one-teach-one/3eoto-studentview.png/view">
+    <title>3eoto-studentview.png</title>
+    <link>https://plone.com/success-stories/each-one-teach-one/3eoto-studentview.png/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-12-23T03:00:31Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="https://plone.com/success-stories/each-one-teach-one/4eoto-studyplan.png/view">
+    <title>4eoto-studyplan.png</title>
+    <link>https://plone.com/success-stories/each-one-teach-one/4eoto-studyplan.png/view</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2017-12-23T03:00:50Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+</rdf:RDF>

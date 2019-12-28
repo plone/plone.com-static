@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://plone.com/success-story-submissions/success-story-submission-form/rss.xml"/>
+    <title>Share Your Success Story</title>
+    <link>https://plone.com/success-story-submissions/success-story-submission-form</link>
+    <description>Use this form to tell us about your successes using Plone</description>
+
+    <language>en</language>
+    <copyright></copyright>
+    <generator>Plone</generator>
+    <item>
+      <title>About the Site</title>
+      <description></description>
+      
+      <pubDate>Sat, 13 Jun 2015 21:29:10 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/about-the-site</guid>
+    </item>
+    <item>
+      <title>fieldsetend.2015-06-13.9840645892</title>
+      <description></description>
+      
+      <pubDate>Sat, 13 Jun 2015 21:29:46 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/fieldsetend.2015-06-13.9840645892</guid>
+    </item>
+    <item>
+      <title>fieldsetend.2015-06-13.1265035202</title>
+      <description></description>
+      
+      <pubDate>Sat, 13 Jun 2015 21:32:08 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/fieldsetend.2015-06-13.1265035202</guid>
+    </item>
+    <item>
+      <title>About the Developer</title>
+      <description></description>
+      
+      <pubDate>Sat, 13 Jun 2015 21:30:04 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/about-the-developer</guid>
+    </item>
+    <item>
+      <title>fieldsetend.2015-06-13.0122797542</title>
+      <description></description>
+      
+      <pubDate>Sat, 13 Jun 2015 21:30:15 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/fieldsetend.2015-06-13.0122797542</guid>
+    </item>
+    <item>
+      <title>Details About the Solution</title>
+      <description></description>
+      
+      <pubDate>Sat, 13 Jun 2015 21:31:52 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/details-about-the-solution</guid>
+    </item>
+    <item>
+      <title>Screen Shots</title>
+      <description></description>
+      
+      <pubDate>Sat, 13 Jun 2015 21:33:12 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/screen-shots</guid>
+    </item>
+    <item>
+      <title>fieldsetend.2015-06-13.2001950891</title>
+      <description></description>
+      
+      <pubDate>Sat, 13 Jun 2015 21:33:22 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/fieldsetend.2015-06-13.2001950891</guid>
+    </item>
+    <item>
+      <title>Mailer</title>
+      <description>E-Mails Form Input</description>
+      
+      <pubDate>Mon, 27 Apr 2015 17:12:27 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/mailer</guid>
+    </item>
+    <item>
+      <title>Project or client name</title>
+      <description>(a generic name is good too if you prefer)</description>
+      
+      <pubDate>Fri, 06 Feb 2015 15:43:26 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/topic</guid>
+    </item>
+    <item>
+      <title>Your name</title>
+      <description></description>
+      
+      <pubDate>Fri, 06 Feb 2015 15:41:07 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/your-name</guid>
+    </item>
+    <item>
+      <title>Your E-Mail Address</title>
+      <description></description>
+      
+      <pubDate>Fri, 06 Feb 2015 15:31:17 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/replyto</guid>
+    </item>
+    <item>
+      <title>Site URL</title>
+      <description>the web address of the highlighted site</description>
+      
+      <pubDate>Fri, 06 Feb 2015 16:29:06 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/site-url</guid>
+    </item>
+    <item>
+      <title>What is the client's vertical or sector?</title>
+      <description>please choose one or more of these options</description>
+      
+      <pubDate>Fri, 06 Feb 2015 16:25:27 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/what-is-the-clients-vertical-or-sector</guid>
+    </item>
+    <item>
+      <title>Other client's vertical or sector</title>
+      <description>if you chose "Other" above, please specify the client's vertical or sector</description>
+      
+      <pubDate>Fri, 06 Feb 2015 16:29:34 +0000</pubDate>
+      <guid>https://plone.com/success-story-submissions/success-story-submission-form/what-is-the-clients-vertical-or-sector-other</guid>
+    </item>
+  </channel>
+</rss>
