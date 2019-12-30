@@ -16,6 +16,9 @@
 - remove unused search pages (#4)
   [tkimnguyen]
 
+- sort sponsors by type then alpha (#2)
+  [tkimnguyen]
+
 2019-12-29
 ----------
 
