@@ -1,3 +1,9 @@
+2020-01-01
+----------
+
+- Update copyright year for 2020 (#8)
+  [tkimnguyen]
+
 2019-12-30
 ----------
 
