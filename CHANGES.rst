@@ -4,6 +4,9 @@
 - Update copyright year for 2020 (#8)
   [tkimnguyen]
 
+- update sitemap with CodeHutLabs (#11)
+  [tkimnguyen]
+
 2019-12-30
 ----------
 
