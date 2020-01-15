@@ -1,3 +1,12 @@
+2020-01-15
+----------
+
+- remove add a launch form
+  [aashimgarg]
+
+- replace add a launch form with email instructions
+  [tkimnguyen]
+
 2020-01-01
 ----------
 
